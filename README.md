@@ -1,4 +1,5 @@
 # This is an auto installer [tensorflow,opencv,cuda11] script : 
+
 `copy the code from here , and add the +x permission to run it with ./ `
 ```bash
 #!/bin/bash
