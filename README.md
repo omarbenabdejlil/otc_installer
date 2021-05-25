@@ -1,5 +1,6 @@
 # This is an auto installer [tensorflow,opencv,cuda11] script : 
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3SR22hN/otc.png" alt="otc" border="0"></a>
+<br>
 `copy the code from here , and add the +x permission to run it with ./ `
 ```bash
 #!/bin/bash
